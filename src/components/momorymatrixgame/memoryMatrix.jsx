@@ -178,7 +178,7 @@ const MemoryMatrix = () => {
           </div>
         </Modal>
       </div>
-      <div className="h-170 flex flex-col items-center justify-center bg-gray-900 text-white ">
+      <div className="h-200 lg:h-170 flex flex-col items-center justify-center bg-gray-900 text-white overflow-auto">
         <div className="flex flex-col items-center justify-center pt-0">
           <h1 className="text-3xl font-bold mb-2">Memory Matrix</h1>
           <p className="mb-4">Level - {level}</p>

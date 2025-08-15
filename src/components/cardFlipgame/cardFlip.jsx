@@ -258,7 +258,7 @@ export default function MemoryGame() {
           <div
             className="grid gap-3 justify-center"
             style={{
-              gridTemplateColumns: `repeat(auto-fit, minmax(70px, 100px))`,
+              gridTemplateColumns: `repeat(auto-fit, minmax(70px, 80px))`,
               maxWidth: "500px",
               margin: "0 auto",
             }}
